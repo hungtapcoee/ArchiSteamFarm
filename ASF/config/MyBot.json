@@ -1,6 +1,6 @@
 {
   "Enabled": true,
   "SteamLogin": "Hungdeptrais1tg",
-  "SteamPassword": "aimabiet",
+  "SteamPassword": "ASF_PASS_ENV_VAR",
   "PasswordFormat": 3
 }
